@@ -1,16 +1,8 @@
-<!DOCTYPE HTML>
+
 <HTML>
 <HEAD>
 <TITLE> HOLA MUNDO </TITLE>
-<META name="description" content="Estas listo para un nuevo comienzo">
-<META name="keywords" content="Con esta rutina serás una persona totalmente ¡DIFERENTE!"
-</HEAD
-<BODY<
-</BODY>
-</HTML> 
-<center>
-
-<b>  <span style="color:red" "font-size:40px"> J A C I E L  </span> </b>  <br>
+J A C I E L  </b>  <br>
 
 
 <span style="font family:'Comic Sams MS'"> 
